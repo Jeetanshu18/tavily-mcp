@@ -1,4 +1,4 @@
-# ![Tavily Crawl Beta](./assets/Banner_NEW.png)
+# ![Tavily Crawl](./assets/Banner_NEW.png)
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/tavily-ai/tavily-mcp?style=social)
